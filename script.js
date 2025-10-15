@@ -1,4 +1,4 @@
-function appendNumber(){
-    currentInput = document.getElementById("h1");
-    buttons = document.querySelectorAll(".buttons h1");
+function intake_number(){
+    let num = document.getElementById("h1").innerHTML
+    let disp = num + this.innerHTML;
 }
